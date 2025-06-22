@@ -1,6 +1,6 @@
 {
   "homepage": "https://KingKaglu.github.io/FitForma",
-  "name": "jewelery",
+  "name": "fitforma",
   "version": "1.0.0",
   "description": "React + Vite + TailwindCSS Jewelry Website",
   "main": "src/main.jsx",
